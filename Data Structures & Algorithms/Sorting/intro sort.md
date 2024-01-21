@@ -1,0 +1,3 @@
+- runs quick sort with a simple deterministic pivot selection heuristic (eg) select pivot as the median of the first, middle and last element)
+- if the recursion depth exceeds a certain threshold $clogn$ then the algorithm switches to heap sort. 
+- the running time is $nlogn$ in the worst case 

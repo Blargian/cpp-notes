@@ -1,0 +1,2 @@
+- `<cmath>` and `std::floor()`
+- `find` [find] and `find_if` [find_if] 

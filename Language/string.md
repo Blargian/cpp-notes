@@ -1,0 +1,1 @@
+- you can convert `string` to a `const char*` using `.c_str()`

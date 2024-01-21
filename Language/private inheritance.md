@@ -1,0 +1,1 @@
+makes the `public` and `protected` members of the base class `private` in the derived class.
