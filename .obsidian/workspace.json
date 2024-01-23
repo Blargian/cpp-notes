@@ -181,14 +181,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effective C++/Item 34 - Differentiate between inheritance of interface an inheritance of implementation.md",
+                "file": "GDB and LLDB commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "509c17bd95b5bce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -217,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vector",
+                "query": "lambda",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "296d7ac618396399",
@@ -255,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boost/BGL/Generic Programming.md",
+                "file": "git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boost/BGL/Generic Programming.md",
+                "file": "git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boost/BGL/Generic Programming.md"
+                "file": "git commands.md"
               }
             }
           }
@@ -316,8 +327,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "766c7c3abd5a5fa5",
+  "active": "509c17bd95b5bce0",
   "lastOpenFiles": [
+    "Useful linux terminal commands.md",
+    "GDB and LLDB commands.md",
+    "ClickHouse/Formats.md",
+    "ClickHouse",
+    "Boost/BGL/Generic Programming.md",
     "Effective C++/Item 33 - Avoid hiding inherited names.md",
     "Effective C++/Item 34 - Differentiate between inheritance of interface an inheritance of implementation.md",
     "Data Structures & Algorithms/Dynamic Programming/dynamic programming.md",
@@ -325,7 +341,6 @@
     "Data Structures & Algorithms/Dynamic Programming/memoization.md",
     "Data Structures & Algorithms/Dynamic Programming/change problem.md",
     "STL/vector.md",
-    "Useful linux terminal commands.md",
     "Language/operator precedence.md",
     "Data Structures & Algorithms/Dynamic Programming/alignment score.md",
     "Data Structures & Algorithms/Dynamic Programming/edit distance.md",
@@ -343,7 +358,6 @@
     "_media_/Pasted image 20231227160435.png",
     "_media_/Pasted image 20231227160010.png",
     "_media_/Pasted image 20231227084052.png",
-    "GDB commands.md",
     "Data Structures & Algorithms/Sorting/quick sort.md",
     "Data Structures & Algorithms/Sorting/selection sort.md",
     "Data Structures & Algorithms/Sorting/Non-Comparison Based Sorting Algorithms.md",
@@ -352,8 +366,6 @@
     "Data Structures & Algorithms/Sorting/counting sort.md",
     "Data Structures & Algorithms/Dynamic Programming",
     "STD/find_if.md",
-    "STD/find.md",
-    "STD/commonly used functions.md",
     "Linux",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -364,7 +376,6 @@
     "QT",
     "DearImGui",
     "Boost/BGL",
-    "Boost",
     "Pasted image 20231023113130.png"
   ]
 }

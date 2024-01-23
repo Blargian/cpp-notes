@@ -1,0 +1,1 @@
+Formats make use of the Factory design pattern. Each format calls `registerInputFormat` or `registerRandomAccessInputFormat` depending on what kind of format it is. This function maps the creator which is a lambda to a name. 
