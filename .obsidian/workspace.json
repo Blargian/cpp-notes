@@ -4,203 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1bd346f452bb4057",
+        "id": "7316103272e64dda",
         "type": "tabs",
         "children": [
           {
-            "id": "918a16b47982355c",
+            "id": "3bda1a631935d130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boost/BGL/Generic Programming.md",
+                "file": "Language/private inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe7060df18f90138",
+            "id": "ed2d875c4a9020b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful linux terminal commands.md",
+                "file": "Language/variadic function templates.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e60202b7f140de93",
+            "id": "94aa7d6cb5a6be78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9288d3e162e5ea3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "936d821fea53c650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Design Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d25ccc55ad3b369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Patterns/Creational/creational.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6655e06acd7acb4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/memory management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c78e866a4991f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/Exceptions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c65c9efd74dd9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STL/Standard Template Library (STL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449c587a8750a705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STL/Standard Template Library (STL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e83001b8cab45e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STD/find.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7768d813a85b666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algorithms/Dynamic Programming/change problem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cf7639a9c3a9417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algorithms/Dynamic Programming/alignment score.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d09d02f98de8db51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algorithms/Dynamic Programming/Nth Fibonacci Number.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0a187b786ea6659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDB and LLDB commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "509c17bd95b5bce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git commands.md",
+                "file": "Language/parameter pack.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lambda",
+                "query": "private",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git commands.md",
+                "file": "Language/variadic function templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git commands.md",
+                "file": "Language/variadic function templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git commands.md"
+                "file": "Language/variadic function templates.md"
               }
             }
           }
@@ -327,45 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "509c17bd95b5bce0",
+  "active": "ed2d875c4a9020b5",
   "lastOpenFiles": [
+    "Language/parameter pack.md",
+    "Language/variadic function templates.md",
     "Useful linux terminal commands.md",
     "GDB and LLDB commands.md",
+    "ClickHouse/Template Separated Format (TSV).md",
     "ClickHouse/Formats.md",
+    "Effective C++/item 40 - use multiple inheritance judiciously.md",
+    "Effective C++/item 38 - Model \"has-a\" or \"is-implemented-in-terms-of\" through composition..md",
+    "Effective C++/item 39 - use private inheritance judiciously.md",
+    "Language/private inheritance.md",
+    "Language/public inheritance.md",
+    "Language/Untitled.md",
+    "Data Structures & Algorithms/Dynamic Programming/dynamic programming.md",
+    "Data Structures & Algorithms/Dynamic Programming/Weighted Independent Set (WIS).md",
+    "Data Structures & Algorithms/Dynamic Programming/edit distance.md",
+    "Data Structures & Algorithms/Dynamic Programming/alignment score.md",
+    "Data Structures & Algorithms/Dynamic Programming/change problem.md",
+    "git commands.md",
     "ClickHouse",
     "Boost/BGL/Generic Programming.md",
     "Effective C++/Item 33 - Avoid hiding inherited names.md",
     "Effective C++/Item 34 - Differentiate between inheritance of interface an inheritance of implementation.md",
-    "Data Structures & Algorithms/Dynamic Programming/dynamic programming.md",
     "Data Structures & Algorithms/Dynamic Programming/Nth Fibonacci Number.md",
     "Data Structures & Algorithms/Dynamic Programming/memoization.md",
-    "Data Structures & Algorithms/Dynamic Programming/change problem.md",
     "STL/vector.md",
     "Language/operator precedence.md",
-    "Data Structures & Algorithms/Dynamic Programming/alignment score.md",
-    "Data Structures & Algorithms/Dynamic Programming/edit distance.md",
     "_media_/Pasted image 20231228112429.png",
     "Data Structures & Algorithms/Dynamic Programming/fractional knapsack.md",
-    "Data Structures & Algorithms/Dynamic Programming/parenthesization.md",
     "_media_/Pasted image 20231228111116.png",
     "_media_/Pasted image 20231228110937.png",
     "_media_/Pasted image 20231228110325.png",
     "_media_/Pasted image 20231228105634.png",
     "_media_/Pasted image 20231228085011.png",
-    "Language/implicit conversion.md",
-    "Effective C++/Item 24 - Declare non-member functions when type conversions should apply to all parameters.md",
-    "STD/limits.md",
     "_media_/Pasted image 20231227160435.png",
     "_media_/Pasted image 20231227160010.png",
     "_media_/Pasted image 20231227084052.png",
-    "Data Structures & Algorithms/Sorting/quick sort.md",
-    "Data Structures & Algorithms/Sorting/selection sort.md",
-    "Data Structures & Algorithms/Sorting/Non-Comparison Based Sorting Algorithms.md",
-    "Data Structures & Algorithms/Sorting/lower bound for comparison based sorting.md",
-    "Data Structures & Algorithms/Sorting/intro sort.md",
-    "Data Structures & Algorithms/Sorting/counting sort.md",
     "Data Structures & Algorithms/Dynamic Programming",
-    "STD/find_if.md",
     "Linux",
     "Untitled.canvas",
     "Untitled 1.canvas",

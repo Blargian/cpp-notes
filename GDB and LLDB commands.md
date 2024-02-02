@@ -21,7 +21,7 @@
 | adds a breakpoint in file on line __ | `breakpoint set --file x --line ` |
 | set a breakpoint on a function | `breakpoint set --name foo ` |
 | to see std::str when print() gives the Summary Unavailable error  | `frame variable --flat varname` |
-|  |  |
+| list all breakpoints | `breakpoint list` |
 |  |  |
 |  |  |
 |  |  |

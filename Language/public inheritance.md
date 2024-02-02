@@ -1,0 +1,1 @@
+Public inheritance is an "is-a" relationship. The compiler will automatically convert a derived class object into a base class object if needed. 

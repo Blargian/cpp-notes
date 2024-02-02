@@ -1,16 +1,10 @@
-### 5 easy steps
+### 3 step recipe
 
-1. Define subproblems 
-2. guess (part of solution)
-3. recurrence
-4. recurse + memoize / bottom-up
-	- check acyclicality
-5. solve original problem
+From Tim Roughgarden - Algorithms Illuminated Part 3
 
-### How to solve any interview problem 
-https://www.youtube.com/watch?v=Hdr64lKQ3e4
-
-DP is about solving sub problems. 
+1. Identify a relatively small collection of subproblems
+2. Show how to quickly and correctly solve "larger" subproblems given the solutions to "smaller" ones
+3. Show how to quickly and correctly infer the final solution from the solutions to all of the subproblems
 
 
 
