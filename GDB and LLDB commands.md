@@ -22,7 +22,7 @@
 | set a breakpoint on a function | `breakpoint set --name foo ` |
 | to see std::str when print() gives the Summary Unavailable error  | `frame variable --flat varname` |
 | list all breakpoints | `breakpoint list` |
-|  |  |
+| delete all breakpoint | `br delete` |
 |  |  |
 |  |  |
 |  |  |

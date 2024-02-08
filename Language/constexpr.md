@@ -1,0 +1,1 @@
+`constexpr` is a keyword in C++ that is used to indicate that an object or function can be evaluated at compile time.

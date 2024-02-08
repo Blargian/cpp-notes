@@ -52,3 +52,5 @@ public:
 
 sometimes a template won't work for a particular class
 example - your class doesn't have the operator that's needed. 
+
+[[explicit template instantiation]]
