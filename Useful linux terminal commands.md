@@ -22,5 +22,15 @@
 | cut a line | `d` |
 | enter visual block mode (for copying) | `v` |
 | undo | `u` |
-| copy  | `y` |
+| copy | `y` |
+|  |  |
 
+## Curl specific
+| Description |  |
+| ---- | ---- |
+| posts data exactly as specified with no extra processing whatsoever  | `curl --data-binary <data>` |
+| send the file after this character as the body of the POST request | `@` |
+| from stdin. | `-` |
+| send from stdin | `@-` |
+|  |  |
+|  |  |

@@ -11,8 +11,12 @@
             "id": "d8d6ea434597ee45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Language/extern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "final",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Language/extern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Language/extern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Language/extern.md"
+              }
             }
           }
         ]
@@ -140,11 +148,12 @@
   },
   "active": "d8d6ea434597ee45",
   "lastOpenFiles": [
-    "Language/final.md",
+    "GDB and LLDB commands.md",
+    "Language/extern.md",
     "Useful linux terminal commands.md",
+    "Language/final.md",
     "Language/private inheritance.md",
     "Language/templates.md",
-    "GDB and LLDB commands.md",
     "intrinsics.md",
     "Language/constexpr.md",
     "Language/explicit template instantiation.md",
@@ -166,7 +175,6 @@
     "Boost/BGL/Generic Programming.md",
     "Effective C++/Item 33 - Avoid hiding inherited names.md",
     "Effective C++/Item 34 - Differentiate between inheritance of interface an inheritance of implementation.md",
-    "Data Structures & Algorithms/Dynamic Programming/Nth Fibonacci Number.md",
     "_media_/Pasted image 20231228112429.png",
     "_media_/Pasted image 20231228111116.png",
     "_media_/Pasted image 20231228110937.png",
