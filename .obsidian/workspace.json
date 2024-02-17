@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/extern.md",
+                "file": "Useful linux terminal commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/extern.md",
+                "file": "Useful linux terminal commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/extern.md",
+                "file": "Useful linux terminal commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/extern.md"
+                "file": "Useful linux terminal commands.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "d8d6ea434597ee45",
   "lastOpenFiles": [
-    "GDB and LLDB commands.md",
     "Language/extern.md",
+    "GDB and LLDB commands.md",
     "Useful linux terminal commands.md",
     "Language/final.md",
     "Language/private inheritance.md",
