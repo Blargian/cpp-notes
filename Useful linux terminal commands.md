@@ -11,6 +11,7 @@
 | `echo` omit newline from output                                                                                                      | `echo -n`                                          |
 | `echo` enable the function of backslash (escaping)                                                                                   | `echo -e`                                          |
 | show kind of file                                                                                                                    | `file`                                             |
+| time how long a command takes                                                                                                                    | `time`                                             |
 | show file with line endings. This displays Unix line endings (`\n` or LF) as `$` and Windows line endings (`\r\n` or CRLF) as `^M$`. | `cat -e filename.txt`                              |
 | Convert betweeen unix and dos line endings                                                                                           | `dos2unix filename.txt` or `unix2dos filename.txt` |
 | change file and group permissions https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/                             | `chmod`                                            |
