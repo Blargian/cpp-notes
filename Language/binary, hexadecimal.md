@@ -1,0 +1,1 @@
+You can use `0x__` or `0b__` for hexadecimal or binary.

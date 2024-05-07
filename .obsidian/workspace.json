@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "GDB and LLDB commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b1c158285a1d458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASCII Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "939310deaf517acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Useful linux terminal commands.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3dc4ae1f93011c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/member-initialization list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "class",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,15 +183,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8d6ea434597ee45",
+  "active": "939310deaf517acd",
   "lastOpenFiles": [
-    "Language/extern.md",
-    "GDB and LLDB commands.md",
+    "Language/functor.md",
+    "Language/Untitled.md",
     "Useful linux terminal commands.md",
+    "Language/binary, hexadecimal.md",
+    "ASCII Table.md",
+    "Language/member-initialization list.md",
+    "GDB and LLDB commands.md",
+    "ANSI escapes.md",
+    "STD/countr_zero.md",
+    "STD/commonly used functions.md",
+    "intrinsics.md",
+    "git commands.md",
+    "Language/classes.md",
+    "Language/copy-assignment operator.md",
+    "Language/copy constructor.md",
+    "Language/extern.md",
     "Language/final.md",
     "Language/private inheritance.md",
     "Language/templates.md",
-    "intrinsics.md",
     "Language/constexpr.md",
     "Language/explicit template instantiation.md",
     "Language/variadic function templates.md",
@@ -162,19 +211,7 @@
     "ClickHouse/Template Separated Format (TSV).md",
     "ClickHouse/Formats.md",
     "Effective C++/item 40 - use multiple inheritance judiciously.md",
-    "Effective C++/item 38 - Model \"has-a\" or \"is-implemented-in-terms-of\" through composition..md",
-    "Effective C++/item 39 - use private inheritance judiciously.md",
-    "Language/public inheritance.md",
-    "Data Structures & Algorithms/Dynamic Programming/dynamic programming.md",
-    "Data Structures & Algorithms/Dynamic Programming/Weighted Independent Set (WIS).md",
-    "Data Structures & Algorithms/Dynamic Programming/edit distance.md",
-    "Data Structures & Algorithms/Dynamic Programming/alignment score.md",
-    "Data Structures & Algorithms/Dynamic Programming/change problem.md",
-    "git commands.md",
     "ClickHouse",
-    "Boost/BGL/Generic Programming.md",
-    "Effective C++/Item 33 - Avoid hiding inherited names.md",
-    "Effective C++/Item 34 - Differentiate between inheritance of interface an inheritance of implementation.md",
     "_media_/Pasted image 20231228112429.png",
     "_media_/Pasted image 20231228111116.png",
     "_media_/Pasted image 20231228110937.png",

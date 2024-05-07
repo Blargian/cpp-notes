@@ -1,0 +1,1 @@
+`std::countr_zero` Returns the number of consecutive 0 bits in the value of x, starting from the least significant bit ("right").

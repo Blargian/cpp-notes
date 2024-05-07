@@ -18,16 +18,20 @@
 | netcat - reads and writes data across network connections                                                                            | `nc [options] host port`                           |
 | File descriptor 1 is the standard output (`stdout`).  <br>File descriptor 2 is the standard error (`stderr`).                        | `2>&1` -> redirects stderr to stdout               |
 | indicates that what follows and precedes is a _file descriptor_, and not a filename                                                  | `&`                                                |
+| check file permissions                                                                                                               | `ls -l filename`                                   |
 |                                                                                                                                      |                                                    |
 ## Vim specific
-| Description | Command |
-| ---- | ---- |
-| show lines in vim | `: set number` |
-| cut a line | `d` |
-| enter visual block mode (for copying) | `v` |
-| undo | `u` |
-| copy | `y` |
-|  |  |
+| Description                           | Command            |
+| ------------------------------------- | ------------------ |
+| show lines in vim                     | `: set number`     |
+| cut a line                            | `d`                |
+| enter visual block mode (for copying) | `v`                |
+| undo                                  | `u`                |
+| copy                                  | `y`                |
+| exit                                  | `:ql`              |
+| paste before cursor                   | `P`                |
+| paste after cursor                    | `p`                |
+| search                                | `\` in escape mode |
 
 ## Curl specific
 | Description |  |

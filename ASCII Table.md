@@ -1,0 +1,1 @@
+http://www.csc.villanova.edu/~tway/resources/ascii-table.html
